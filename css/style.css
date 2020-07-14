@@ -23,7 +23,7 @@ h2{
 }
 
 h4 {
-	margin-bottom: 20px;
+	margin-bottom: 12px;
 	font-size: 16px;
 	font-weight: 700;
 	color: rgb(47, 147, 123);
@@ -221,7 +221,7 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/07.jpg);
+	background: url(../img/golf.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
@@ -303,4 +303,9 @@ nav#tf-footer {
 
 #github-ref {
 	color: black;
+}
+
+.p1 {
+	/* text-decoration: bold; */
+	font-weight: bold;
 }

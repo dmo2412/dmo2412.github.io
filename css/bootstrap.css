@@ -2049,7 +2049,7 @@ pre code {
     margin-left: 58.33333333%;
   }
   .col-md-offset-6 {
-    margin-left: 50%;
+    /* margin-left: 10%; */
   }
   .col-md-offset-5 {
     margin-left: 41.66666667%;
